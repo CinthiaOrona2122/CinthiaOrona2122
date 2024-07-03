@@ -13,11 +13,11 @@
 - 🔭 I’m currently working on ... Improving on ASP.Net 8 with Minimal API REST CRUD & about Swagger documentation.
 - 🌱 I’m currently learning ... .Net 8, Entity Frameworks, Code First migration and some cloud hosting stuff.
 - 👯 I’m looking to collaborate on ... Frontend technologies, like Angular 17 or get a little help doing the views, making documentation, doing pair programming and so on...
-- 🤔 I’m looking for help with ... Backend structure understanding, web & cloud hosting servers migration, 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with ... Backend structure understanding, web & cloud hosting servers migration, Project Planning long term.
+- 💬 Ask me about ... Anyhting, I'm open to talk no limits.
+- 📫 How to reach me: ... Github, LinkedIn, X.com, you name it.
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... Couldn't find the best match... (I ment the fun fact 😉)!
 
 <br>
 

@@ -1,22 +1,9 @@
 <div align="center">
-<h1>Hi there 👋, I'm 
-<a href="https://www.linkedin.com/in/cinthia-orona85/" style="color: #e339a5; text-shadow: 0 0 7px #fff,
-            0 0 7px #fff,
-            0 0 5px #fff,
-            0 0 12px #E339A3,
-            0 0 8px #E339A3,
-            0 0 28px #E339A3,
-            0 0 54px #E339A3,
-            41px 6px 91px #E339A3;">
-            Cinthia M. Orona</a></h1></div>
-
+<h1>Hi there 👋, I'm <a href="https://www.linkedin.com/in/cinthia-orona85/">Cinthia M. Orona</a></h1></div>
 
 <div style="display: flex; justify-content: space-around; align-items:center">
-<article style="width: 50% ">
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 60px height=auto>
 <h2 align="left" font-weight="bold">About me</h2>  
-</article>
-<img src="./Foto-perfil.jpg" width = 100px height=auto style="border-radius: 50%;">
 </div>
 <br>
 
@@ -33,5 +20,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cinthia-orona85/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Github&logoColor=white)](https://github.com/CinthiaOrona2122)
-
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CinthiaOrona2122)
+[![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white)](https://no-country.slack.com/archives/D078YDXER0X)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cin.m.orona@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/jxAJ95pe7c)
